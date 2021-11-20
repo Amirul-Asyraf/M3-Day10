@@ -1,0 +1,23 @@
+{
+  "files": {
+    "app.js": "/M3-Day10/static/js/app.85d501ad.chunk.js",
+    "app.js.map": "/M3-Day10/static/js/app.85d501ad.chunk.js.map",
+    "runtime~app.js": "/M3-Day10/static/js/runtime~app.11530c63.js",
+    "runtime~app.js.map": "/M3-Day10/static/js/runtime~app.11530c63.js.map",
+    "static/js/2.9e8a87ea.chunk.js": "/M3-Day10/static/js/2.9e8a87ea.chunk.js",
+    "static/js/2.9e8a87ea.chunk.js.map": "/M3-Day10/static/js/2.9e8a87ea.chunk.js.map",
+    "favicon-16.png": "/M3-Day10/favicon-16.png",
+    "favicon-32.png": "/M3-Day10/favicon-32.png",
+    "favicon.ico": "/M3-Day10/favicon.ico",
+    "index.html": "/M3-Day10/index.html",
+    "manifest.json": "/M3-Day10/manifest.json",
+    "serve.json": "/M3-Day10/serve.json",
+    "static/js/2.9e8a87ea.chunk.js.LICENSE.txt": "/M3-Day10/static/js/2.9e8a87ea.chunk.js.LICENSE.txt",
+    "static/media/spongegar.png": "/M3-Day10/static/media/spongegar.d62da4e1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.11530c63.js",
+    "static/js/2.9e8a87ea.chunk.js",
+    "static/js/app.85d501ad.chunk.js"
+  ]
+}
