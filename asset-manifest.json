@@ -1,23 +1,35 @@
 {
   "files": {
-    "app.js": "/M3-Day10/static/js/app.85d501ad.chunk.js",
-    "app.js.map": "/M3-Day10/static/js/app.85d501ad.chunk.js.map",
+    "app.js": "/M3-Day10/static/js/app.75407a33.chunk.js",
+    "app.js.map": "/M3-Day10/static/js/app.75407a33.chunk.js.map",
     "runtime~app.js": "/M3-Day10/static/js/runtime~app.11530c63.js",
     "runtime~app.js.map": "/M3-Day10/static/js/runtime~app.11530c63.js.map",
-    "static/js/2.9e8a87ea.chunk.js": "/M3-Day10/static/js/2.9e8a87ea.chunk.js",
-    "static/js/2.9e8a87ea.chunk.js.map": "/M3-Day10/static/js/2.9e8a87ea.chunk.js.map",
+    "static/js/2.7809278c.chunk.js": "/M3-Day10/static/js/2.7809278c.chunk.js",
+    "static/js/2.7809278c.chunk.js.map": "/M3-Day10/static/js/2.7809278c.chunk.js.map",
+    "fonts/AntDesign.ttf": "/M3-Day10/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/M3-Day10/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/M3-Day10/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/M3-Day10/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/M3-Day10/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/M3-Day10/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/M3-Day10/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/M3-Day10/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/M3-Day10/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/M3-Day10/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/M3-Day10/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/M3-Day10/./fonts/SimpleLineIcons.ttf",
     "favicon-16.png": "/M3-Day10/favicon-16.png",
     "favicon-32.png": "/M3-Day10/favicon-32.png",
     "favicon.ico": "/M3-Day10/favicon.ico",
     "index.html": "/M3-Day10/index.html",
     "manifest.json": "/M3-Day10/manifest.json",
     "serve.json": "/M3-Day10/serve.json",
-    "static/js/2.9e8a87ea.chunk.js.LICENSE.txt": "/M3-Day10/static/js/2.9e8a87ea.chunk.js.LICENSE.txt",
+    "static/js/2.7809278c.chunk.js.LICENSE.txt": "/M3-Day10/static/js/2.7809278c.chunk.js.LICENSE.txt",
     "static/media/spongegar.png": "/M3-Day10/static/media/spongegar.d62da4e1.png"
   },
   "entrypoints": [
     "static/js/runtime~app.11530c63.js",
-    "static/js/2.9e8a87ea.chunk.js",
-    "static/js/app.85d501ad.chunk.js"
+    "static/js/2.7809278c.chunk.js",
+    "static/js/app.75407a33.chunk.js"
   ]
 }
